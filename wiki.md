@@ -3,10 +3,10 @@
 
 This is **Julie Vu's** lab 1 *submission* for GEOG328.
 [Here is my favorite restaurant in Fremont](https://kin-len.com/),
-![https://kin-len.com/wp-content/uploads/2022/03/7.-Battered-Chicken-Red-Curry-scaled.jpg] The **best** item on their menu is the battered chicken red curry!
+![kin len menu](https://kin-len.com/wp-content/uploads/2022/03/7.-Battered-Chicken-Red-Curry-scaled.jpg) The **best** item on their menu is the battered chicken red curry!
 
 ## My Favorite Food
-My favorite food is sushi. Here is a list of my favorite restaurants in the **Greater Seattle Area** (not in order). The best spot for happy hour is ~~Japonessa~~ Momiji. [Here is their happy hour menu](https://www.momijiseattle.com/_files/ugd/3cc5e9_aae029e04e214062bf1ddd91ab97964d.pdf)
+My favorite food is sushi. Here is a list of my favorite restaurants in the **Greater Seattle Area** (not in order). The best spot for happy hour is ~~Japonessa~~ Momiji. [Here is their happy hour menu.](https://www.momijiseattle.com/_files/ugd/3cc5e9_aae029e04e214062bf1ddd91ab97964d.pdf)
  - Momiji
  - Ku Sushi
  - Japonessa
